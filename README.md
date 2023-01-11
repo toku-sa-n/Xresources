@@ -1,0 +1,2 @@
+# Xresources
+My .Xresources
