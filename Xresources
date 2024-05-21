@@ -15,11 +15,9 @@ URxvt.visualBell:           false
 URxvt.saveLines:            3000
 
 !! Font list and Spacing
-URxvt.font:                 xft:Source\ Code\ Pro:size=13,\
-                            xft:Source\ Code\ Pro\ for\ Powerline-11,\
+URxvt.font:                 xft:SauceCodePro\ NF:size=13,\
+                            xft:Source\ Code\ Pro:size=13,\
                             xft:Font\ Awesome\ 5\ Free,\
-                            xft:Standard Symbols L,\
-                            xft:PowerlineSymbols,\
                             xft:Hack,\
                             xft:IPAGothic,\
                             xft:DejaVu\ Sans\ Mono,\
